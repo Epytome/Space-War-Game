@@ -51,5 +51,6 @@ Once the game is booted up, you will be greeeted with a very artsy titlescreen, 
 
 ## Download Link
 
-https://github.com/vgShadow/Space-War-Game/releases/tag/1.0
+[Download to Play...Journey Into The Nether](https://github.com/vgShadow/Space-War-Game/releases/tag/1.0)
+
 
