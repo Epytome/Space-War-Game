@@ -8,7 +8,7 @@ This is a game that I had created in about 5 weeks. During the process, there we
 
 ### Minecraft
 
-Minecarft is an open world survival/sandbox game created by Swedish developer Notch in 2011. It allows you to take a journey through the open world of Minecraft and explore the many different areas that lay beneath and beyond your eyesight. As you explore you will we greeted withmany different creatures ranging from pigs to squids lurking around each biome there is to explore. Also, once night time comes around you will find yourself surrouned by deadly enemies, also known as mobs.Survive the night and make it to day, then rinse and repeat until you become a very well educated survivor.
+Minecraft is an open world survival/sandbox game created by Swedish developer Notch in 2011. It allows you to take a journey through the open world of Minecraft and explore the many different areas that lay beneath and beyond your eyesight. As you explore you will we greeted with many different creatures ranging from pigs to squids lurking around each biome there is to explore. Also, once night time comes around, you will find yourself surrouned by deadly enemies, also known as mobs. Survive the night and make it to day, then rinse and repeat until you become a very well educated survivor.
 
 ![Minecraft](https://raw.githubusercontent.com/vgShadow/Space-War-Game/master/download.jpg)
 
