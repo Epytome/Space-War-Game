@@ -20,9 +20,12 @@ In Minecraft, Steve is the most basic skin that someone could use. He is the ori
 
 ### Ghasts
 
+The Ghasts are these huge mobs that only spawn inside of the Nether. They are big, all white blocks that have a face that is constantly crying with its eyes closed. The tear drops run about halfway down his face creating a eerie vibe about it. The Ghasts like to shoot fireballs at the player and attempt to kill. They dont have a lot of health but theysure can dish out a ton of damage to anything. 
+
+![Ghast](https://raw.githubusercontent.com/vgShadow/Space-War-Game/master/Ghast.gif)
 
 ## How to Play
 
-Once the game is booted up, you will be greeeted with a very artsy titlescreen, overlooking a nether castle. Once the screen is entirely loaded you will want to press the Spacebar to journey down into the depths of the Nether as the Minecraft character named Steve.. once the Nether is reached you will want to defend yourself from the flying Ghasts and Blazes. The monster will come flying down at you and you will want to use the arrow keys to move left and right to dodge them and using Spacebar to throw your diamond swords at them. Each monster has 10 health along with yourself, so be careful not to get hit by the fireballs 10 times. Once you die or kill the monsters you will be presented with an end game screen. WHile this screen is in eyes view you will see your score and a suggestion to press 'r'r to return to titlescreen. If you press 'r' you will b able to begin your journy into the Nether once again.  
+Once the game is booted up, you will be greeeted with a very artsy titlescreen, overlooking a nether castle. Once the screen is entirely loaded you will want to press the Spacebar to journey down into the depths of the Nether as the Minecraft character named Steve.. once the Nether is reached you will want to defend yourself from the flying Ghasts and Blazes. The monster will come flying down at you and you will want to use the arrow keys to move left and right to dodge them and using Spacebar to throw your diamond swords at them. Each monster has 10 health along with yourself, so be careful not to get hit by the fireballs 10 times. Once you die or kill the monsters you will be presented with an end game screen. WHile this screen is in eyes view you will see your score and a suggestion to press 'r'r to return to titlescreen. If you press 'r' you will be able to begin your journey into the Nether once again.  
 
 
