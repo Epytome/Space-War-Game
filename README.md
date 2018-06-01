@@ -16,7 +16,13 @@ Minecarft is an open world survival/sandbox game created by Swedish developer No
 
 In Minecraft, Steve is the most basic skin that someone could use. He is the original main character skin to the Minecraft world. The things that make Steve look the way he does is his dark brown hair, dark skin, nose and mouth, and blue eyes, with a light blue shirt, a pair of blue jeans, and the durable yet breathtaking gray shoes. Steve is supposed to represent the average day human and he does a good job of looking that way.
 
-![Steve](https://raw.githubusercontent.com/vgShadow/Space-War-Game/master/steve.png)
+![Steve](https://raw.githubusercontent.com/vgShadow/Space-War-Game/master/steve2.gif)
+
+### The Nether
+
+The Nether is basically the hell of Minecraft. Everything inside of it wants to kill you and restrict your access around it. It is filled will tough terrain that is surrounded by lava. If you make one mistake you will be blasted off the side and fall in lava, losing all of your precious items. Along witht he lave there are a large quantity of dangerous mobs that want to kill you. The player can only get into the Nether by creating an Ender Portal out of at least 10 Obsidian and something to light up the center. You will spawn somewhere random and have to traverse your way throught the Nether cautiously. Unless you really need something, this isn't where you want to be.
+
+![Nether](https://raw.githubusercontent.com/vgShadow/Space-War-Game/master/nether.gif)
 
 ### Ghasts
 
