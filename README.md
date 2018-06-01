@@ -48,3 +48,8 @@ Once the game is booted up, you will be greeeted with a very artsy titlescreen, 
 ## Gameplay
 
 ![Play](https://raw.githubusercontent.com/vgShadow/Space-War-Game/master/Capture2.JPG)
+
+## Download Link
+
+https://github.com/vgShadow/Space-War-Game/releases/tag/1.0
+
