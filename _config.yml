@@ -1,1 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-architect
+title: Journey Into The Nether
+description: Fight your way throught the Nether!
+show_downloads: True
